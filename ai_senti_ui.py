@@ -96,3 +96,4 @@ else:
 # Footer
 st.write("---")
 st.write("AI-Sentinel Demo | Multi-Agent RAG Security System")
+print("test")
